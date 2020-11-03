@@ -1,3 +1,5 @@
+***Ecuador***
+
 #EXTM3U x-tvg-url="http://www.m3u.cl/epg/m3u.xml" tv-test="EC.m3u"
 #EXTINF:-1 tvg-id="113606" tvg-name="America Estereo" tvg-logo="https://lh3.googleusercontent.com/-0FAirGSQwlU/X4sWcq-V6LI/AAAAAAAA6dg/OdwE3Prm1ZAzghKLWQ3lblcggpoMOjxhgCK8BGAsYHg/s0/2020-10-17.jpg", America Estereo
 https://streamingwowza.com:1936/radioamericaquito/smil:radioamericaquito.smil/playlist.m3u8?PlaylistM3UCL
