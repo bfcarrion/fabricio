@@ -3,7 +3,7 @@
 
 #EXTM3U x-tvg-url="http://www.m3u.cl/epg/m3u.xml" tv-test="EC.m3u"
 
-#EXTINF:-1 tvg-id="113606" tvg-name="America Estereo" tvg-logo="https://lh3.googleusercontent.com/-0FAirGSQwlU/X4sWcq-V6LI/AAAAAAAA6dg/OdwE3Prm1ZAzghKLWQ3lblcggpoMOjxhgCK8BGAsYHg/s0/2020-10-17.jpg" group-title="Canales de Ecuador", America Estereo
+#EXTINF:-1 group-title="Canales" tvg-id="113606" tvg-name="America Estereo" tvg-logo="https://lh3.googleusercontent.com/-0FAirGSQwlU/X4sWcq-V6LI/AAAAAAAA6dg/OdwE3Prm1ZAzghKLWQ3lblcggpoMOjxhgCK8BGAsYHg/s0/2020-10-17.jpg" group-title="Canales de Ecuador", America Estereo
 https://streamingwowza.com:1936/radioamericaquito/smil:radioamericaquito.smil/playlist.m3u8?PlaylistM3UCL
 
 #EXTINF:-1 tvg-id="113605" tvg-name="Gama TV" tvg-logo="https://lh3.googleusercontent.com/-YLOhA6NjL4w/X4sVzN3iQqI/AAAAAAAA6dY/_Nf1hxIY7qYOc8CP8e_1AYRSucZklSQNACK8BGAsYHg/s0/2020-10-17.png" group-title="Canales de Ecuador", Gama TV
